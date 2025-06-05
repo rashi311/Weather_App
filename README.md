@@ -3,54 +3,64 @@
 
 A simple and responsive Weather App that allows users to search for real-time weather updates of any city around the world.
 
-# 🚀 Features
-. 🌍 Search weather by city name
+## 🚀 Features
 
-. 📍 Displays temperature, humidity, wind speed, and weather conditions
+- 🔍 Search weather by city name
+- 🌡️ Display temperature, weather condition, humidity, and wind speed
+- 🌆 Dynamic background changes based on weather
+- 📱 Responsive design for all screen sizes
+- 🛑 Graceful error handling for invalid inputs
 
-. 🕒 Real-time data using OpenWeatherMap API (or your chosen API)
+---
 
-. 📱 Fully responsive UI for mobile and desktop
+## 🛠️ Tech Stack
 
-.🌗 Clean and modern design
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
-##🛠️ Tech Stack
-   . HTML
-   . CSS
-   . JavaScript
-   . Weather API (e.g., OpenWeatherMap)
+---
 
-## 📸 Screenshots
+### Screenshot 1: Search your city
 
-### 🌤️ Main UI
+<p align="center">
+  <img src="images/screenshot1.png"  width="600" />
+</p>
 
-![Main Screen](./Images/screenshot6.png)
+### Screenshot 2: Displays temperature, humidity, wind speed, and weather conditions
 
-### 📱 Responsive View
+<p align="center">
+  <img src="images/screenshot2.png"  width="600" />
+</p>
 
-![Mobile View](./Images/screenshot7.png)
+
 
 📂 Project Structure
 
-weather-app/
+Weather_App/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-│   └── screenshot1.png
+├── Images/
+│ ├── search.png
+│ ├── info.png
+│ └── error.png
 └── README.md
 
+## 📦 How to Run Locally
 
-#🌐 How to Use
-  1.Clone the repository
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/Weather_App.git
+   cd Weather_App
+2.Open index.html in your browser
 
-   git clone https://github.com/your-username/weather-app.git
+3.Enter a city name and hit "Search"
 
-  2.Open index.html in your browser
 
-  3.Enter a city name and hit "Search"
+##  🔑 API Key Setup
 
-##🔑 API Key Setup
   1.Sign up at OpenWeatherMap
 
   2.Replace "YOUR_API_KEY" in script.js with your actual API key:
