@@ -27,13 +27,13 @@ A simple and responsive Weather App that allows users to search for real-time we
 ### Screenshot 1: Search your city
 
 <p align="center">
-  <img src="Images/screenshot6.png" width="600" alt="Search City Screenshot" />
+  <img src="images/screenshot6.png" width="600" alt="Search City Screenshot" />
 </p>
 
 ### Screenshot 2: Displays temperature, humidity, wind speed, and weather conditions
 
 <p align="center">
-  <img src="Images/screenshot7.png" width="600" alt="Weather Info Screenshot" />
+  <img src="images/screenshot7.png" width="600" alt="Weather Info Screenshot" />
 </p>
 
 
@@ -57,8 +57,9 @@ Weather_App/
 
 ## 📦 How to Run Locally
 
-    1. Clone the repository  
    ```
+   1. Clone the repository  
+  
    git clone https://github.com/yourusername/Weather_App.git
    cd Weather_App
 
@@ -76,6 +77,8 @@ Weather_App/
       const apiKey = "YOUR_API_KEY";
 
 ##🙌 Acknowledgements
+     ```
      OpenWeatherMap API
+     ```
 
 
