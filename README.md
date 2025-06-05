@@ -1,9 +1,9 @@
 # Weather_App
-🌦️ Weather App
+##🌦️ Weather App
 
 A simple and responsive Weather App that allows users to search for real-time weather updates of any city around the world.
 
-🚀 Features
+##🚀 Features
 🌍 Search weather by city name
 
 📍 Displays temperature, humidity, wind speed, and weather conditions
@@ -14,24 +14,21 @@ A simple and responsive Weather App that allows users to search for real-time we
 
 🌗 Clean and modern design
 
-🛠️ Tech Stack
-HTML
-
-CSS
-
-JavaScript
-
-Weather API (e.g., OpenWeatherMap)
+##🛠️ Tech Stack
+   HTML
+   CSS
+   JavaScript
+    Weather API (e.g., OpenWeatherMap)
 
 ## 📸 Screenshots
 
 ### 🌤️ Main UI
 
-![Main Screen](Images/screenshot6.png)
+![Main Screen](./Images/screenshot6.png)
 
 ### 📱 Responsive View
 
-![Mobile View](Images/screenshot7.png)
+![Mobile View](./Images/screenshot7.png)
 
 📂 Project Structure
 
@@ -44,23 +41,23 @@ weather-app/
 └── README.md
 
 
-🌐 How to Use
-1.Clone the repository
+#🌐 How to Use
+  1.Clone the repository
 
-git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weather-app.git
 
-2.Open index.html in your browser
+  2.Open index.html in your browser
 
-3.Enter a city name and hit "Search"
+  3.Enter a city name and hit "Search"
 
-🔑 API Key Setup
-1.Sign up at OpenWeatherMap
+##🔑 API Key Setup
+  1.Sign up at OpenWeatherMap
 
-2.Replace "YOUR_API_KEY" in script.js with your actual API key:
+  2.Replace "YOUR_API_KEY" in script.js with your actual API key:
 
-  const apiKey = "YOUR_API_KEY";
+   const apiKey = "YOUR_API_KEY";
 
-🙌 Acknowledgements
+##🙌 Acknowledgements
 OpenWeatherMap API
 
 
