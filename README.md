@@ -38,7 +38,8 @@ A simple and responsive Weather App that allows users to search for real-time we
 
 📂 Project Structure
 
-<pre></pre>
+<pre>
+ ``` 
 Weather_App/
 ├── index.html
 ├── style.css
@@ -48,6 +49,7 @@ Weather_App/
 │ ├── info.png
 │ └── error.png
 └── README.md
+```  
 </pre>
 
 ## 📦 How to Run Locally
