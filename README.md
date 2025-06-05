@@ -27,11 +27,11 @@ Weather API (e.g., OpenWeatherMap)
 
 ### 🌤️ Main UI
 
-![Main Screen](./Images/screenshot6.png)
+![Main Screen](Images/screenshot6.png)
 
 ### 📱 Responsive View
 
-![Mobile View](./Images/screenshot7.png)
+![Mobile View](Images/screenshot7.png)
 
 📂 Project Structure
 
