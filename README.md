@@ -1,9 +1,9 @@
 # Weather_App
-##🌦️ Weather App
+#🌦️ Weather App
 
 A simple and responsive Weather App that allows users to search for real-time weather updates of any city around the world.
 
-##🚀 Features
+#🚀 Features
 🌍 Search weather by city name
 
 📍 Displays temperature, humidity, wind speed, and weather conditions
