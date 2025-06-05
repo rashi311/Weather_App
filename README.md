@@ -1,5 +1,6 @@
 # Weather_App
 🌦️ Weather App
+
 A simple and responsive Weather App that allows users to search for real-time weather updates of any city around the world.
 
 🚀 Features
@@ -26,11 +27,11 @@ Weather API (e.g., OpenWeatherMap)
 
 ### 🌤️ Main UI
 
-![Main Screen](./images/screenshot6.png)
+![Main Screen](./Images/screenshot6.png)
 
 ### 📱 Responsive View
 
-![Mobile View](./images/screenshot7.png)
+![Mobile View](./Images/screenshot7.png)
 
 📂 Project Structure
 
