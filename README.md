@@ -25,19 +25,20 @@ A simple and responsive Weather App that allows users to search for real-time we
 ### Screenshot 1: Search your city
 
 <p align="center">
-  <img src="images/screenshot1.png"  width="600" />
+  <img src="Images/screenshot6.png"  width="600" />
 </p>
 
 ### Screenshot 2: Displays temperature, humidity, wind speed, and weather conditions
 
 <p align="center">
-  <img src="images/screenshot2.png"  width="600" />
+  <img src="Images/screenshot7.png"  width="600" />
 </p>
 
 
 
 📂 Project Structure
 
+<pre></pre>
 Weather_App/
 ├── index.html
 ├── style.css
@@ -47,6 +48,7 @@ Weather_App/
 │ ├── info.png
 │ └── error.png
 └── README.md
+</pre>
 
 ## 📦 How to Run Locally
 
