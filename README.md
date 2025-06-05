@@ -59,7 +59,7 @@ Weather_App/
 │ └── error.png
 └── README.md
 ```  
-</pre>
+</pre> 
 
 ## 📦 How to Run Locally
 
