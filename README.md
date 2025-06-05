@@ -36,6 +36,12 @@ A simple and responsive Weather App that allows users to search for real-time we
   <img src="images/screenshot7.png" width="600" alt="Weather Info Screenshot" />
 </p>
 
+### Screenshot 2: Display error if entered city name is incorrect
+
+<p align="center">
+  <img src="images/screenshot8.png" width="600" alt="Weather Info Screenshot" />
+</p>
+
 
 
 
