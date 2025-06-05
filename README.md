@@ -1,24 +1,24 @@
 # Weather_App
-#🌦️ Weather App
+# 🌦️ Weather App
 
 A simple and responsive Weather App that allows users to search for real-time weather updates of any city around the world.
 
-#🚀 Features
-🌍 Search weather by city name
+# 🚀 Features
+. 🌍 Search weather by city name
 
-📍 Displays temperature, humidity, wind speed, and weather conditions
+. 📍 Displays temperature, humidity, wind speed, and weather conditions
 
-🕒 Real-time data using OpenWeatherMap API (or your chosen API)
+. 🕒 Real-time data using OpenWeatherMap API (or your chosen API)
 
-📱 Fully responsive UI for mobile and desktop
+. 📱 Fully responsive UI for mobile and desktop
 
-🌗 Clean and modern design
+.🌗 Clean and modern design
 
 ##🛠️ Tech Stack
-   HTML
-   CSS
-   JavaScript
-    Weather API (e.g., OpenWeatherMap)
+   . HTML
+   . CSS
+   . JavaScript
+   . Weather API (e.g., OpenWeatherMap)
 
 ## 📸 Screenshots
 
